@@ -1,0 +1,14 @@
+.container {
+  max-width: $max-width;
+  margin: 25px 0px 0px 100px;
+}
+
+.nav   {
+  
+  list-style-type: none;
+  border: 2px solid;
+
+  a {
+    text-decoration:none;
+  }
+}
